@@ -1,0 +1,31 @@
+*{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', Tahoma, Arial, Verdana;
+}
+header{
+    background: black;
+    padding: 5px 0px 5px 0px;
+}
+
+/**Boot CSS **/
+.center{
+    max-width: 1280px;
+}
+ul{
+    list-style: none;
+}
+li{
+    display: inline-block;
+    margin: 0px 90px 0px 0px;
+}
+a{
+    font-size: 13.5px;
+    font-weight: bold; 
+    text-decoration: none;
+    color: white;}
+header li{
+    vertical-align: middle;
+}
